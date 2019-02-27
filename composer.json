@@ -1,0 +1,18 @@
+{
+    "name": "Itkee/WechatSDK",
+    "description": "wechat sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":"SuperMan",
+            "email":"superman@itkee.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Itkee\\WechatSDK\\": "src/"
+        }
+    }
+}
